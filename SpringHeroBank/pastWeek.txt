@@ -1,0 +1,3 @@
+                                    ID|                     Time|    Transaction Type|       Receiver|         Sender|           Content|         Amount
+  67a13475-52f5-4ecb-81c1-2158a9c880ae|    22/6/2018 10:53:16 PM|            TRANSFER|    Thao Nguyen|            You|chuyen tien mua hang|         100000
+  c331910e-4fc5-4319-b6b9-94783bdce119|    22/6/2018 10:52:17 PM|             DEPOSIT|               |               |  nap tien choi au|       90000000
